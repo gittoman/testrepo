@@ -1,5 +1,6 @@
 {
   "name" : "gittoman/testrepo",
   "description" : "test package",
-  "license" : "proprietary"
+  "license" : "proprietary",
+  "keywords": ["v1.1.0-stable","v1.0.1-beta2", "v1.0.0-alpha"]
 }
